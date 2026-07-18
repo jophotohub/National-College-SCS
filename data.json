@@ -1,0 +1,67 @@
+{
+  "students": [
+    {
+      "id": "stud-1",
+      "register_number": "2024CS001",
+      "name": "Ananya Sharma",
+      "department": "Computer Science",
+      "year": 3,
+      "email": "student@cs.edu",
+      "phone": "9876543210",
+      "password": "703b0a3d6ad75b649a28adde7d83c6251da457549263bc7ff45ec709b0a8448b",
+      "role": "student"
+    }
+  ],
+  "admins": [
+    {
+      "id": "admin-1",
+      "name": "Dr. Rajesh Kumar",
+      "designation": "Chief Controller of Examinations",
+      "department": "Examination Cell",
+      "email": "admin@exam.edu",
+      "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+      "role": "admin"
+    }
+  ],
+  "departments": [
+    {
+      "id": "dept-1",
+      "department_name": "Academic Office"
+    },
+    {
+      "id": "dept-2",
+      "department_name": "Examination Cell"
+    },
+    {
+      "id": "dept-3",
+      "department_name": "Library"
+    },
+    {
+      "id": "dept-4",
+      "department_name": "Accounts Office"
+    },
+    {
+      "id": "dept-5",
+      "department_name": "Placement Cell"
+    },
+    {
+      "id": "dept-6",
+      "department_name": "Hostel Office"
+    },
+    {
+      "id": "dept-7",
+      "department_name": "Transport Office"
+    },
+    {
+      "id": "dept-8",
+      "department_name": "IT Support"
+    },
+    {
+      "id": "dept-9",
+      "department_name": "Department Office"
+    }
+  ],
+  "queries": [],
+  "replies": [],
+  "notifications": []
+}
